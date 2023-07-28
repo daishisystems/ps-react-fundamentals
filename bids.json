@@ -77,6 +77,12 @@
       "bidder": "Roland",
       "amount": 203000,
       "id": 13
+    },
+    {
+      "houseId": 5,
+      "bidder": "Paul",
+      "amount": 180000,
+      "id": 14
     }
   ]
 }
